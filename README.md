@@ -1,6 +1,6 @@
 # Funflower Farm Contracts
 
-This repo includes the contracts used in [Funflower land](https://funflowerfarm.com/) along with a suite of tests.
+This repo includes the contracts used in [Funflower farm](https://funflowerfarm.com/) along with a suite of tests.
 
 ## Prerequisites
 
